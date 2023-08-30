@@ -1,0 +1,18 @@
+.outer-div{
+  width: 100vh;
+  background-color: black;
+}
+/*
+.sidebar{
+width:340px;
+background-color:red ;
+}
+
+/*
+.main-div{
+    flex:1;
+    background-color: aqua;
+}
+.bottom-div{
+background-color: chartreuse;
+}
