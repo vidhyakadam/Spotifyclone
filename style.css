@@ -160,7 +160,9 @@ ul {
   align-items: center;
   margin-right: 5px;
 }
-
+.user>p{
+  padding-top: 3px;
+}
 .user>i {
   padding-right: 10px;
 }
@@ -192,7 +194,7 @@ ul {
 }
 
 .gm-list>p {
-  padding-right: 80px;
+  padding-right:130px;
   font-size: 12px;
   font-weight: 700;
 }
@@ -393,7 +395,6 @@ ul {
 /*page 2 css frome here */
 .side-bar-image {
   margin-top: 90%;
-  margin-left: 30px;
 }
 
 .secondpage{
@@ -420,12 +421,8 @@ background-color:black;
   height: 350px;
   display: flex;
 }
-
-
-
 .song-img {
   padding-top: 70px;
-
 
 }
 
